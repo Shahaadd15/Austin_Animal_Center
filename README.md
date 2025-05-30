@@ -1,9 +1,27 @@
-# Austin_Animal_Center
- A detailed analysis conducted on the intakes and outcomes of the center throughout 12 years. showing the various animal breeds and descriptions along with the dates of entry and exit. As well as contains personal information regarding their age, intake condition and outcome type.
-## 📊 Dashboard Tools
+# 🐾 Austin Animal Center Dashboard
 
-This project includes interactive dashboards created using **Power BI**, showcasing:
+A data analysis and dashboard project exploring animal intake and outcome trends using real-world data from the Austin Animal Center. This project combines **Python** for data preprocessing and **Power BI** for visual analytics.
 
-- Animal intake and outcome trends
-- Breed and age distributions
-- Entry and exit timing analysis
+---
+
+## 📊 Project Overview
+
+- Explore 12 years of data from the Austin Animal Center
+- Clean and preprocess data using Python
+- Visualize insights with interactive dashboards in Power BI
+- Identify trends in intake types, outcomes, breed distributions, and more
+
+---
+
+## 🛠️ Tools Used
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
+  </a>
+</p>
+
